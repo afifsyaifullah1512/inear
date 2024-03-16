@@ -1,0 +1,22 @@
+{
+  "name": "inear",
+  "version": "1.0.0",
+  "description": "buat biawak inear",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afifsyaifullah1512/inear.git"
+  },
+  "author": "afifsyaifullah1512",
+  "dependencies": {
+    "parforlay"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afifsyaifullah1512/inear/issues"
+  },
+  "homepage": "https://github.com/afifsyaifullah1512/inear#readme"
+}
