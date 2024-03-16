@@ -12,7 +12,7 @@
   },
   "author": "afifsyaifullah1512",
   "dependencies": {
-    "@parforlay/add-watermark"
+    "@parforlay/add-watermark" : "1.0.14"
   },
   "license": "ISC",
   "bugs": {
